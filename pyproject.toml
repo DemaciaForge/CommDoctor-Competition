@@ -9,7 +9,7 @@ description = "Interactive digital communication fault diagnosis and repair trai
 readme = "README.md"
 requires-python = ">=3.12"
 authors = [
-    {name = "j1379", email = "student@example.com"}
+    {name = "DemaciaForge", email = "student@example.com"}
 ]
 keywords = ["digital communication", "BPSK", "simulation", "education"]
 classifiers = [

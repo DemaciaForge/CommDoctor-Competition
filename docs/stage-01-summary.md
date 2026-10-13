@@ -350,7 +350,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 
 ## 九、致谢与归属
 
-**原始代码作者：** j1379  
+**原始代码作者：** DemaciaForge  
 **AI辅助工具：** Claude Opus 5.5  
 **开发日期：** 2026-10-13  
 **项目仓库：** D:/CommDoctor-Competition

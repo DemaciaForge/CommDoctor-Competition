@@ -2,7 +2,7 @@
 CommDoctor - 数字通信仿真与故障诊断平台
 
 版本: 0.1.0
-作者: j1379
+作者: DemaciaForge
 描述: BPSK 数字通信仿真内核
 
 本文件迁移自旧项目 D:/CommDoctor/src/commdoctor/__init__.py
@@ -12,7 +12,7 @@ CommDoctor - 数字通信仿真与故障诊断平台
 """
 
 __version__ = "0.1.0"
-__author__ = "j1379"
+__author__ = "DemaciaForge"
 
 from .modulation import bpsk_modulate, bpsk_demodulate
 from .channel import awgn_channel
